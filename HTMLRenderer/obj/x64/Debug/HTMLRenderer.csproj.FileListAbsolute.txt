@@ -1,0 +1,10 @@
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\bin\x64\Debug\HTMLRenderer.pdb
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\x64\Debug\HTMLRenderer.csprojAssemblyReference.cache
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\x64\Debug\HTMLRenderer.csproj.CoreCompileInputs.cache
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\x64\Debug\HTMLRenderer.pdb
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\bin\x64\Debug\Jurassic.dll
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\bin\x64\Debug\Jurassic.pdb
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\x64\Debug\HTMLRenderer.csproj.CopyComplete
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\bin\x64\Debug\HTMLRenderer.dll.config
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\bin\x64\Debug\HTMLRenderer.dll
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\x64\Debug\HTMLRenderer.dll

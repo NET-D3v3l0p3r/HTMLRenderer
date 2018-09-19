@@ -1,0 +1,10 @@
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\bin\Debug\HTMLRenderer.pdb
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\Debug\HTMLRenderer.csprojAssemblyReference.cache
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\Debug\HTMLRenderer.csproj.CoreCompileInputs.cache
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\Debug\HTMLRenderer.pdb
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\Debug\HTMLRenderer.Renderer.SharpHtmlRenderer.resources
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\Debug\HTMLRenderer.csproj.GenerateResource.cache
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\bin\Debug\HTMLRenderer.exe.config
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\bin\Debug\HTMLRenderer.exe
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\Debug\HTMLRenderer.Test.TestApp.resources
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\HTMLRenderer\HTMLRenderer\obj\Debug\HTMLRenderer.exe
